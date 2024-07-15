@@ -1,0 +1,50 @@
+[
+    {
+        "fname": "islam",
+        "lname": "nor"
+    },
+    {
+        "fname": "omar",
+        "lname": "jamal"
+    },
+    {
+        "fname": "amr",
+        "lname": "mohamedl",
+        "city": "dmyat"
+    },
+    {
+        "fname": "hatem",
+        "lname": "magdt",
+        "city": "cairo",
+        "id": 3
+    },
+    {
+        "id": 2,
+        "fname": "ibrahim",
+        "lname": "hasan",
+        "city": "alx"
+    },
+    {
+        "id": 5,
+        "fname": "wael",
+        "lname": "mohamed",
+        "city": "cairo"
+    },
+    {
+        "id": 3,
+        "fname": "nesma",
+        "lname": "rean",
+        "city": "mansora"
+    },
+    {
+        "id": 2,
+        "fname": "ibrahim",
+        "lname": "hsn",
+        "city": "alx"
+    },
+    {
+        "fname": "jakm",
+        "lname": "remon",
+        "city": "lxborj --id=2"
+    }
+]
